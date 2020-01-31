@@ -1,0 +1,6 @@
+c:\users\lc-equipo-35\documents\visual studio 2015\Projects\MiPrimerTrabajoConsola\MiPrimerTrabajoConsola\bin\Debug\MiPrimerTrabajoConsola.exe.config
+c:\users\lc-equipo-35\documents\visual studio 2015\Projects\MiPrimerTrabajoConsola\MiPrimerTrabajoConsola\bin\Debug\MiPrimerTrabajoConsola.exe
+c:\users\lc-equipo-35\documents\visual studio 2015\Projects\MiPrimerTrabajoConsola\MiPrimerTrabajoConsola\bin\Debug\MiPrimerTrabajoConsola.pdb
+c:\users\lc-equipo-35\documents\visual studio 2015\Projects\MiPrimerTrabajoConsola\MiPrimerTrabajoConsola\obj\Debug\MiPrimerTrabajoConsola.csprojResolveAssemblyReference.cache
+c:\users\lc-equipo-35\documents\visual studio 2015\Projects\MiPrimerTrabajoConsola\MiPrimerTrabajoConsola\obj\Debug\MiPrimerTrabajoConsola.exe
+c:\users\lc-equipo-35\documents\visual studio 2015\Projects\MiPrimerTrabajoConsola\MiPrimerTrabajoConsola\obj\Debug\MiPrimerTrabajoConsola.pdb
