@@ -1,0 +1,9 @@
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO\Emboteladora\bin\Debug\Emboteladora.exe.config
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO\Emboteladora\bin\Debug\Emboteladora.exe
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO\Emboteladora\bin\Debug\Emboteladora.pdb
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO\Emboteladora\obj\Debug\Emboteladora.csprojResolveAssemblyReference.cache
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO\Emboteladora\obj\Debug\Emboteladora.Properties.Resources.resources
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO\Emboteladora\obj\Debug\Emboteladora.csproj.GenerateResource.Cache
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO\Emboteladora\obj\Debug\Emboteladora.exe
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO\Emboteladora\obj\Debug\Emboteladora.pdb
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO\Emboteladora\obj\Debug\Emboteladora.Frmemboteladora.resources
