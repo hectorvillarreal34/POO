@@ -1,0 +1,9 @@
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO2\CalificacionLeida\bin\Debug\CalificacionLeida.exe.config
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO2\CalificacionLeida\bin\Debug\CalificacionLeida.exe
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO2\CalificacionLeida\bin\Debug\CalificacionLeida.pdb
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO2\CalificacionLeida\obj\Debug\CalificacionLeida.ClassGrades.resources
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO2\CalificacionLeida\obj\Debug\CalificacionLeida.Properties.Resources.resources
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO2\CalificacionLeida\obj\Debug\CalificacionLeida.csproj.GenerateResource.Cache
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO2\CalificacionLeida\obj\Debug\CalificacionLeida.exe
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO2\CalificacionLeida\obj\Debug\CalificacionLeida.pdb
+C:\Users\LAB-SOFTWARE-02\Desktop\visual basic jona\Unidad1POO2\CalificacionLeida\obj\Debug\CalificacionLeida.csprojResolveAssemblyReference.cache
